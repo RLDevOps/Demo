@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<name>Catalog Maven Webapp</name>
 	<url>http://www.olat.org/</url>
-	<distributionManagement>
+	<!--<distributionManagement>
 		<repository>
 			<id>Nexus-Common-Server-42</id>
 			<name>Common Utils</name>
@@ -19,7 +19,7 @@
 			<id>Demo</id>
 			<url>http://conztanz.relevancelab.com/nexus/content/repositories/Demo</url>
 		</repository> -->
-	</distributionManagement>
+	</distributionManagement>-->
 	
 	<!-- <scm>
 		<developerConnection>scm:git:http://192.168.105.86/git/Scholastic.git</developerConnection>
