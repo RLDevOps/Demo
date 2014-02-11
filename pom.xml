@@ -8,6 +8,8 @@
 	<packaging>war</packaging>
 	<name>Catalog Maven Webapp</name>
 	<url>http://www.olat.org/</url>
+	
+	<!--commented-->
 	<!--<distributionManagement>
 		<repository>
 			<id>Nexus-Common-Server-42</id>
